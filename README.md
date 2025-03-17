@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react,Vue,Typescript,Js**
 
-- 📫 How to reach me **lydiamakini17@gmail.com**
+- 📫 How to reach me **lmakini17@gmail.com**
 
 - ⚡ Fun fact **I like reading novels,My favourite writer currently is James Patterson.**
 
